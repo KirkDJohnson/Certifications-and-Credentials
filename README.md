@@ -17,3 +17,4 @@
 <img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/files/14794503/CompTIA.Security%2B.ce.certificate.pdf"  alt="Certifications"/>
 <br />
 <br />
+
