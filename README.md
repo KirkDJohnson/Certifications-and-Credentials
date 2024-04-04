@@ -7,8 +7,8 @@ https://www.credly.com/users/kirk-johnson.2130aa35<br />
 <img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/50cdf0ed-9130-45f9-a6e8-ae68a02f936b"  alt="Certifications"/>
 <br />
 <br />
-Tryhackme profile, showing my rank in the world <br />
-<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/049c4064-e7bb-4788-b5ef-21c833e1b2fb"  alt="Certifications"/>
+Tryhackme profile, showing my rank top 1% in the world <br />
+<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/3ad57953-0bc4-4fab-bcc2-622e3d38b845"  alt="Certifications"/>
 <br />
 <br />
 Two blue team learning paths in tryhackme 100% completed <br />
