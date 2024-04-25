@@ -7,7 +7,7 @@ https://www.credly.com/users/kirk-johnson.2130aa35<br />
 <img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/50cdf0ed-9130-45f9-a6e8-ae68a02f936b"  alt="Certifications"/>
 <br />
 <br />
-Tryhackme profile, showing my rank top 1% in the world <br />
+Tryhackme profile, showing my rank top 1% in the world https://tryhackme.com/badge/2739543 <br />
 <img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/de11e115-143c-4b39-b986-77f0d883844f"  alt="Certifications"/>
 <br />
 <br />
