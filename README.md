@@ -8,7 +8,7 @@ https://www.credly.com/users/kirk-johnson.2130aa35<br />
 <br />
 <br />
 Tryhackme profile, showing my rank top 1% in the world <br />
-<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/495e7444-690d-4c0e-aa27-378e3663b7e8"  alt="Certifications"/>
+<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/de11e115-143c-4b39-b986-77f0d883844f"  alt="Certifications"/>
 <br />
 <br />
 Two blue team learning paths in tryhackme 100% completed <br />
