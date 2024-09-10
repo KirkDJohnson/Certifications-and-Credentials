@@ -4,11 +4,11 @@
 <br />
 Screen shot of my Credly badge profile which can be found here: 
 https://www.credly.com/users/kirk-johnson.2130aa35<br />
-<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/50cdf0ed-9130-45f9-a6e8-ae68a02f936b"  alt="Certifications"/>
+<img src="https://github.com/user-attachments/assets/1f753539-23fb-4bb3-b98b-bbfe09e90549"  alt="Certifications"/>
 <br />
 <br />
 Tryhackme profile, showing my rank top 1% in the world  <br />
-<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/de11e115-143c-4b39-b986-77f0d883844f"  alt="Certifications"/>
+<img src="https://github.com/user-attachments/assets/2b577735-f4c4-4254-924c-54759df73bae"  alt="Certifications"/>
 <br />
 <br />
 Two blue team learning paths in tryhackme 100% completed <br />
