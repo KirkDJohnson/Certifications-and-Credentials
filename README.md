@@ -11,6 +11,4 @@ Tryhackme profile, showing my rank top 1% in the world  <br />
 <img src="https://github.com/user-attachments/assets/2b577735-f4c4-4254-924c-54759df73bae"  alt="Certifications"/>
 <br />
 <br />
-Two blue team learning paths in tryhackme 100% completed <br />
-<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/65c79135-4f9b-4372-b1e2-456a294da938"  alt="Certifications"/>
-<img src="https://github.com/KirkDJohnson/Certifications-and-Credentials/assets/164972007/6ef565f5-0813-46cc-91f9-07b11b4ee2e1"  alt="Certifications"/>
+
