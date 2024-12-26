@@ -4,7 +4,7 @@
 <br />
 Screen shot of my Credly badge profile which can be found here: 
 https://www.credly.com/users/kirk-johnson.2130aa35<br />
-<img src="https://github.com/user-attachments/assets/1f753539-23fb-4bb3-b98b-bbfe09e90549"  alt="Certifications"/>
+<img src="https://github.com/user-attachments/assets/f14a87f3-7b1f-445b-ae0c-60eb74297363"  alt="Certifications"/>
 <br />
 <br />
 Tryhackme profile, showing my rank top 1% in the world  <br />
